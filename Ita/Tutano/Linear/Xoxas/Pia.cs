@@ -14,5 +14,8 @@ namespace Ita.Tutano.Xoxas
         {
             Tralha = Content;
         }
+
+        public Pia(){}
+
     }
 }
