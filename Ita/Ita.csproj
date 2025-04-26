@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <PackageId>Patorando.Ita</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Samuel A. De Oliveira</Authors>
+    <Company>Patorando</Company>
+    <Description>Biblioteca para manipulação de dados eficiente.</Description>
+    <PackageTags>estruturas de dados; listas; pilhas; filas; árvores; algoritmos de busca; algoritmos de ordenação; grafos; listas ligadas; busca binária; ordenação por inserção; busca em largura</PackageTags>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+</Project>
