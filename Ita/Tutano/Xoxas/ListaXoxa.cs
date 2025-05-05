@@ -5,7 +5,7 @@ namespace Ita.Tutano.Xoxas
     public class ListaXoxa<T>
     {
         private Pia<T> _head = new Pia<T>();
-        public Pia<T> Last { get; private set; } = new Pia<T>();
+        private Pia<T> Last = new Pia<T>();
 
         public int Count {get; private set;} = 0;
 

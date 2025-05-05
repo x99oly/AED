@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <PackageId>Patorando.Ita</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
     <Authors>Samuel A. De Oliveira</Authors>
     <Company>Patorando</Company>
     <Description>Biblioteca para manipulação de dados eficiente.</Description>
